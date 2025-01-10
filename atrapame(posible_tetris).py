@@ -14,7 +14,7 @@ azul = (0, 0, 255)
 
 # Crear la ventana
 ventana = pygame.display.set_mode((ventana_ancho, ventana_alto))
-pygame.display.set_caption("Atrapa el Objeto")
+pygame.display.set_caption("Atrapa el Objeto (tetris proyect)")
 
 # Personaje
 personaje_ancho = 50
@@ -77,3 +77,12 @@ while jugando:
 
 # Cerrar Pygame
 pygame.quit()
+#agregar modos de dificultad  
+ 
+#introducir botones de opciones
+#guardar puntuacion
+#guardar nombre del jugador
+#guardar tiempo de juego
+#guardar fecha de juego
+#guardar nivel de dificultad
+
